@@ -27,6 +27,5 @@ I'm a fourth-year Computer Engineering student specializing in Ethical Hacking a
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablopin0sec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pablo's GitHub statistics" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopin0sec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most used programming languages" width="48%" />
+  <img src="https://gh-stats.com/api/pablopin0sec" alt="Pablo's GitHub statistics" />
 </p>
